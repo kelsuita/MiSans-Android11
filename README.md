@@ -22,6 +22,16 @@ Noto Sans CJK 作为缺字回退。
 
 两者共用同一张 `fonts.xml`，区别只在 `weight="400"` / `weight="500"` 指向哪个文件。
 
+### 观感对比（同一台 API 30 模拟器，设置页）
+
+| 原字体 Roboto | MiSans 不加粗版 | MiSans 加粗版 |
+| --- | --- | --- |
+| ![Roboto](docs/screenshots/01-before-roboto.png) | ![Stock](docs/screenshots/03-stock-regular.png) | ![Bold](docs/screenshots/04-bold-demibold.png) |
+
+同一段文字放大对比（Regular / Medium / Demibold / Semibold，自上而下）：
+
+![字重对比](docs/screenshots/05-weights.png)
+
 ## 它会改什么
 
 | 系统字体族 | 原来 | 现在 |
