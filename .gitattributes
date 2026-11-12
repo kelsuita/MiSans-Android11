@@ -1,0 +1,6 @@
+# Shell scripts, XML and module.prop must keep LF endings or Magisk/Android break.
+* text=auto eol=lf
+*.ps1 text eol=crlf
+*.ttf binary
+*.pdf binary
+*.png binary

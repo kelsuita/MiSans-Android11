@@ -1,0 +1,6 @@
+# build output (zips + test screenshots)
+dist/
+
+# windows junk
+Thumbs.db
+desktop.ini

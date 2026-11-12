@@ -1,0 +1,6 @@
+id=misans_font
+name=MiSans System Font
+version=v1.0.0
+versionCode=1
+author=kelsuita
+description=小米 MiSans 系统字体，简体中文缺字自动回退 Noto Sans CJK。适用于 Android 11（SDK 30）类原生 ROM，Magisk 20.4+。
